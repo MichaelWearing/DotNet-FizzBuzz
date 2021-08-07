@@ -1,0 +1,8 @@
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\bin\Debug\netstandard2.0\FizzBuzzer.deps.json
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\bin\Debug\netstandard2.0\FizzBuzzer.dll
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\bin\Debug\netstandard2.0\FizzBuzzer.pdb
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\obj\Debug\netstandard2.0\FizzBuzzer.csprojAssemblyReference.cache
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\obj\Debug\netstandard2.0\FizzBuzzer.AssemblyInfoInputs.cache
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\obj\Debug\netstandard2.0\FizzBuzzer.AssemblyInfo.cs
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\obj\Debug\netstandard2.0\FizzBuzzer.dll
+C:\Users\Mikey\Desktop\C#\fizzbuzzernet\FizzBuzzer\obj\Debug\netstandard2.0\FizzBuzzer.pdb
